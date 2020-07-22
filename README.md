@@ -1,4 +1,4 @@
-### Hi there 👋
+> 不忘初心，方得始终~
 
 <!--
 **jardenliu/jardenliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
